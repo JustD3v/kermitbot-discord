@@ -1,0 +1,56 @@
+{
+    "is_production": true,
+    "auth": {
+        "bot_token": "Nzk4MzAwMTk5NTAzMjY1ODMy.X_zA_w.7WYcsy9XvOo3s6Ar6ucoCgnr4kY",
+        "server_id": "798168743707410443"
+    },
+    "bot_settings": {
+        "bot_status": "Name ist pr0gramm",
+        "nsfw_in_nswfchat_only": true,
+        "disable_nsfl_preview": true,
+        "delete_user_message": false,
+        "embed_direct_links": false,
+        "prefix": {
+            "command_prefix": ".",
+            "mod_prefix": "~"
+        },
+        "moderator_roles": [],
+        "verfied_nick_role": "",
+        "deleted_log_id": ""
+    },
+    "pr0api": {
+        "username": "",
+        "password": "",
+        "discord_secret": ""
+    },
+    "webserver": {
+        "port": 1337,
+        "session_secret": "",
+        "auth": {
+            "clientId": "798300199503265832",
+            "clientSecret": "4EJ3AE8cE16TrED3ZhAZJs1FAJkyrayY",
+            "scopes": ["identify", "guilds"],
+            "redirectUri": "http://79.249.193.36:3000"
+        }
+    },
+    "rollen_auswahl": [],
+    "stammtisch_auswahl": [],
+    "user_ranks": {
+        "0": "",
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": "",
+        "7": "",
+        "8": "",
+        "9": "",
+        "10": "",
+        "11": "",
+        "12": "",
+        "13": "",
+        "14": "",
+        "15": ""
+    }
+}
